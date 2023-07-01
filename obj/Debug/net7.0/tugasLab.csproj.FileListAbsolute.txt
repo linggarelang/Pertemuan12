@@ -1,0 +1,15 @@
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\bin\Debug\net7.0\tugasLab.exe
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\bin\Debug\net7.0\tugasLab.deps.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\bin\Debug\net7.0\tugasLab.runtimeconfig.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\bin\Debug\net7.0\tugasLab.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\bin\Debug\net7.0\tugasLab.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.csproj.AssemblyReference.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.AssemblyInfoInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.AssemblyInfo.cs
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.csproj.CoreCompileInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\refint\tugasLab.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\tugasLab.genruntimeconfig.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan12\tugasLab\obj\Debug\net7.0\ref\tugasLab.dll
